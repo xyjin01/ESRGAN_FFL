@@ -1,0 +1,5 @@
+# file type
+*.svg
+*.pth
+*.mat
+*.npy
